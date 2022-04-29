@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hi!
 
-You can use the [editor on GitHub](https://github.com/stephentown42/stephentown42.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the research homepage for me, Stephen Town. I’m currently a senior research associate at University College London, working in the field of sensory, behavioral and systems neuroscience. My research asks how the activity of neurons in the brain gives rise to perception, with a specific focus on hearing and multisensory integration. You can find out more at the links below:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Research
+Find out about ongoing and past work, including recent conference presentations, papers in review and peer-reviewed publications.
 
-### Markdown
+### Resources
+Links to code and data sets, and methods describing experimental techniques and lab practices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Blog
+Ongoing news and events, as well as some thoughts and discussion about my work in general.
 
-```markdown
-Syntax highlighted code block
+### Connect
+* [LinkedIn](https://uk.linkedin.com/in/stephen-town)
+* [PolyWork](https://www.polywork.com/stephentown)
+* [Fiverr](https://www.fiverr.com/stephentown42)
+* [Twitter] (https://twitter.com/stephentown42)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephentown42/stephentown42.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
