@@ -15,5 +15,5 @@ Ongoing news and events, as well as some thoughts and discussion about my work i
 * [LinkedIn](https://uk.linkedin.com/in/stephen-town)
 * [PolyWork](https://www.polywork.com/stephentown)
 * [Fiverr](https://www.fiverr.com/stephentown42)
-* [Twitter] (https://twitter.com/stephentown42)
+* [Twitter](https://twitter.com/stephentown42)
 
