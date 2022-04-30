@@ -24,6 +24,10 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+aside:
+  toc: true
+sidebar:
+  nav: layouts
 ---
 
 
