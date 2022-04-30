@@ -7,13 +7,16 @@ header:
         url:  /docs/en/structure
   
   - title: Resources      
-    url: /resources.html
+      url: /resources.html
     
   - titles:
       # @start locale config
       en      : &EN       Blog
       # @end locale config
-    url: /blog.html
+      url: /blog.html
+
+    - title: Publications     
+      url: /publications.html
 
   - titles:
       # @start locale config

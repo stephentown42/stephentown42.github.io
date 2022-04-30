@@ -32,7 +32,7 @@ sidebar:
 
 
 
-## Professional Experience & Education
+## Background
 
 Since 2007, my research has focused on how networks of neurons come together in the brain to turn sensory signals into understanding and natural behaviours. My goal has been to develop fundamental knowledge through basic research on biological systems that can shape future development of technological and healthcare applications.
 
