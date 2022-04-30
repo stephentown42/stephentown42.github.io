@@ -1,6 +1,6 @@
 ---
 title: Coordinate frames of spatial hearing in non-human listeners
-tags: Behavior Cognition
+tags: Behavior Cognition Publications 
 ---
 
 I'm pleased to announce the publication of our study on the coordinate frames of spatial hearing in this week's issue of The Journal of Neuroscience. The paper was posted on BioRxiv a few months ago and has now been peer-reviewed for J. Neurosci. The full paper is available here, but this blog post outlines the main take-home points from the study...
@@ -29,7 +29,7 @@ Probe sounds were presented from untrained locations (e.g. the North-West or Sou
 
 **Is it just ferrets that can do this?**
 
-Our work was the first to show non-human localization of sounds in multiple continuous spaces, but there are hints that other animals can do this. Work in Gerbils for example shows that they can detect changes in world-centered sound location. Likewise, anecdotal evidence suggests that cat's can form expectations about their owner's voice location that are fixed in the world. That makes sense because cats have highly mobile ears (pinna) that dramatically change the properties of sounds arriving at each ear. It would thus make sense for them to represent sounds in a world-centered space that remains stable across changes in ear and head position. The same is probably true for most mammals, and probably birds as well.
+Our work was the first to show non-human localization of sounds in multiple continuous spaces, but there are hints that other animals can do this. Work in [gerbils](https://www.cell.com/current-biology/fulltext/S0960-9822(21)00820-4) for example shows that they can detect changes in world-centered sound location. Likewise, anecdotal evidence suggests that [cats](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257611) can form expectations about their owner's voice location that are fixed in the world. That makes sense because cats have highly mobile ears (pinna) that dramatically change the properties of sounds arriving at each ear. It would thus make sense for them to represent sounds in a world-centered space that remains stable across changes in ear and head position. The same is probably true for most mammals, and probably birds as well.
 
 ![Ginger cat with head tilted](/assets/images/amber-kipp-75715CVEJhI-unsplash.jpg)
 <div style="text-align: right"> Photo by <a href="https://unsplash.com/@sadmax">Amber Kipp</a> on <a href="https://unsplash.com/photos/75715CVEJhI">Unsplash</a></div>

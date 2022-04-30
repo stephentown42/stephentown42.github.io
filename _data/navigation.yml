@@ -1,5 +1,8 @@
 header:
 
+  - title: Research
+    url: /research.html
+
   - titles:
       # @start locale config
       en      : &EN       Publications
