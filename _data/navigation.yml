@@ -1,19 +1,12 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       Projects      
-      # @end locale config
-    url: /projects.html
-    children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
+  - title: Projects  
+    subfolderitems:          
+      - page: Overview
+        url:  /projects.html
+      - page:  Structure
+        url:  /docs/en/structure
   
-  - titles:
-      # @start locale config
-      en      : &EN       Resources
-      # @end locale config
+  - title: Resources      
     url: /resources.html
     
   - titles:
