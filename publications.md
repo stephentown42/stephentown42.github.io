@@ -1,11 +1,7 @@
 ---
 layout: articles
-title: publications
+title: Publications
 articles:
-  data_source: site.sample_page
-  type: grid
-  size: sm
+  show_excerpt: true
+  show_readmore: true
 ---
-
-
-## Publications
