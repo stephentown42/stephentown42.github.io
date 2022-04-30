@@ -1,5 +1,7 @@
 ---
 layout: article
+sidebar:
+  nav: docs-en
 titles:
   # @start locale config
   en      : &EN       About
