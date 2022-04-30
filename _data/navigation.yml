@@ -15,7 +15,7 @@ header:
       # @end locale config
       url: /blog.html
 
-    - title: Publications     
+  - title: Publications     
       url: /publications.html
 
   - titles:
