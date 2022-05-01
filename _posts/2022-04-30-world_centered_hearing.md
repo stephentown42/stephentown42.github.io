@@ -1,6 +1,6 @@
 ---
 title: Coordinate frames of spatial hearing in non-human listeners
-tags: Behavior Cognition Publications 
+tags: Behavior Cognition Modeling Publications 
 ---
 
 I'm pleased to announce the publication of our study on the coordinate frames of spatial hearing in this week's issue of The Journal of Neuroscience. The paper was posted on BioRxiv a few months ago and has now been peer-reviewed for J. Neurosci. The full paper is available here, but this blog post outlines the main take-home points from the study...
