@@ -53,7 +53,9 @@ Since 2007, my research has focused on how networks of neurons come together in 
   - Inst. of Continuing Education
 
 ### Education
-- PhD in Neuroscience, University of Cambridge
-- BA in Natural Sciences (1st), University of Cambridge
+
+**University of Cambridge**
+- PhD in Neuroscience
+- BA in Natural Sciences (1st Class)
 
 <img src="assets/images/caleb-ekeroth-vYA26NaRUls-unsplash.jpg" alt="Man in hoodie in fog" style="height: 538px; width:907px;"/>
