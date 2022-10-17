@@ -32,11 +32,7 @@ sidebar:
 
 
 
-## About Me
-
-Since 2007, my research has focused on how networks of neurons come together in the brain to turn sensory signals into understanding and natural behaviours. My goal has been to develop fundamental knowledge through basic research on biological systems that can shape future development of technological and healthcare applications.
-
-I work in a variety of programming languages including Python, SQL, R and Matlab to create data pipelines and machine learning models.
+I work in a variety of programming languages including Python, SQL, R and Matlab to create data pipelines and machine learning models. These models are designed to capture the drivers of sensory perception, measured using a variety of behavioral and neurophysiological methods. I have published insights from my research in a number of peer-reviewed scientific journals, with the goal of furthering our fundamental understanding of brain function so that we can develop healthcare technologies to fight disease and enhance cognition.
 
 - [LinkedIn](www.linkedin.com/in/stephen-town/)
 - [GitHub](github.com/stephentown42)
