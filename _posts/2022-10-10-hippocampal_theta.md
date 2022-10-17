@@ -4,7 +4,6 @@ tags: Behavior Theta LFP Hippocampus Publications
 ---
 
 
-
 Huge congratulations to @SorayaDunn on her [paper in Nature Communications](https://www.nature.com/articles/s41467-022-33507-2) showing behaviourally modulated hippocampal theta oscillations in the ferret persist during both locomotion and immobility. Great to work with her @DanBendor and @jennybizley.
 
 The hippocampus is a brain region that plays an important role in learning, memory and navigation. When you look at the electrical signals within this brain region (known as the local field potential), you see rhythmic activity called oscillations that results from the coordinated firing of groups of neurons. Oscillations can occur at different frequencies, with the strongest being in the theta band. Much like the conductor in an orchestra, these theta oscillations are thought to coordinate communication across thousands or even millions of neurons, both within the hippocampus and between the hippocampus and the cerebral cortex (the folded structure we see on the outside, involved in sensory, motor and many other functions).
