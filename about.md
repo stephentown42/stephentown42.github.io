@@ -36,10 +36,15 @@ sidebar:
 
 Since 2007, my research has focused on how networks of neurons come together in the brain to turn sensory signals into understanding and natural behaviours. My goal has been to develop fundamental knowledge through basic research on biological systems that can shape future development of technological and healthcare applications.
 
+I work in a variety of programming languages including Python, SQL, R and Matlab to create data pipelines and machine learning models.
+
 - [LinkedIn](www.linkedin.com/in/stephen-town/)
 - [GitHub](github.com/stephentown42)
 - [Google Scholar](scholar.google.co.uk/citations?user=P95jaL8AAAAJ&hl=en&oi=ao)
 - [Tableau](public.tableau.com/app/profile/stephen.town3919#!/)
+
+
+
 
 ### Research Scientist
 **University College London**
