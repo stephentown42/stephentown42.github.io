@@ -32,30 +32,23 @@ sidebar:
 
 
 
-## Background
+## About Me
 
 Since 2007, my research has focused on how networks of neurons come together in the brain to turn sensory signals into understanding and natural behaviours. My goal has been to develop fundamental knowledge through basic research on biological systems that can shape future development of technological and healthcare applications.
+
+- [LinkedIn](www.linkedin.com/in/stephen-town/)
+- [GitHub](github.com/stephentown42)
+- [Google Scholar](scholar.google.co.uk/citations?user=P95jaL8AAAAJ&hl=en&oi=ao)
+- [Tableau](public.tableau.com/app/profile/stephen.town3919#!/)
 
 ### Research Scientist
 **University College London**
 - Senior Research Associate (2016-present)
 - Research Associate (2011-2016)
 
-### Lecturer
-**University College London**
-- Hearing and Auditory Physiology
-  - MSc in Advanced Neuroimaging
-  - MSc in Sensory and Systems Neuroscience
-  - BSc in Psychology and Language Sciences
-
-**University of Cambridge**
-- Working Memory & Executive Function
-  - Inst. of Continuing Education
 
 ### Education
 
 **University of Cambridge**
-- PhD in Neuroscience
-- BA in Natural Sciences (1st Class)
-
-<img src="assets/images/caleb-ekeroth-vYA26NaRUls-unsplash.jpg" alt="Man in hoodie in fog" style="height: 538px; width:907px;"/>
+- PhD in Neuroscience (2007-2011)
+- BA in Natural Sciences (2004-2007)
