@@ -42,7 +42,7 @@ I work in a variety of programming languages including Python, SQL, R and Matlab
 
 
 
-### Research Scientist
+### Professional Experience
 **University College London**
 - Senior Research Associate (2016-present)
 - Research Associate (2011-2016)
