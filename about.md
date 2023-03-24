@@ -34,7 +34,7 @@ sidebar:
 
 I work in a variety of programming languages including Python, SQL, R and Matlab to create data pipelines and machine learning models. These models are designed to capture the drivers of sensory perception, measured using a variety of behavioral and neurophysiological methods. I have published insights from my research in a number of peer-reviewed scientific journals, with the goal of furthering our fundamental understanding of brain function so that we can develop healthcare technologies to fight disease and enhance cognition.
 
-- [LinkedIn](https://linkedin.com/in/stephen-town/)
+- <a href="https://linkedin.com/in/stephen-town/">LinkedIn</a>
 - [GitHub](https://github.com/stephentown42)
 - [Google Scholar](scholar.google.co.uk/citations?user=P95jaL8AAAAJ&hl=en&oi=ao)
 - [Tableau](public.tableau.com/app/profile/stephen.town3919#!/)
